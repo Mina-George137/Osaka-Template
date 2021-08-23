@@ -349,12 +349,12 @@ nav li:hover {
     background-color: #343434;
 }
 
-.item img {
+#blog .item img {
     transition: transform 1s;
     transition-duration: 1s;
 }
 
-.item:hover img {
+#blog .item:hover img {
     transform: scale(1.5);
 }
 
